@@ -39,7 +39,7 @@ Core Requirements
 Testing Requirements
 Test cases not included for this assesment . 
 
-db/schema.rb -> Checkout the schema for better understanding .
+db/schema.rb -> Checkout the schema for better understanding and you will understand the structure , To checkout the further code . 
 
 *** Code is provided fot Things asked in Assesment , Only for required features asked as part of assesment , Focusing on associations i.e structure creation and logic and functionalities of rails .
 
