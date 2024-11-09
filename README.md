@@ -1,24 +1,47 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+Assesment for Team management Back end API management 
 
-* System dependencies
+Features Included :
 
-* Configuration
 
-* Database creation
+1. Team Management
+- Create a new team with name, description, and owner
+- View team details
+- Update team information
+- Delete teams
+- List all teams
 
-* Database initialization
+2. Member Management
+- Add members to a team
+- Remove members from a team
+- List all team members
+- Filter team members by last name
+- View member details
 
-* How to run the test suite
+3. Authorization
+- Only team owners can modify team details
+- Only team owners can add/remove members
+- Team members can view team information
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+Technical Requirements
+Core Requirements
+- Build using Ruby on Rails
+- Implement RESTful API endpoints
+- Include authentication system
+- Follow proper HTTP status codes
+- Implement error handling
+- Include input validation
+- Add pagination for list endpoints
 
-* ...
+Testing Requirements
+Test cases not included for this assesment . 
+
+db/schema.rb -> Checkout the schema for better understanding .
+
+*** Code is provided fot Things asked in Assesment , Only for required features asked as part of assesment , Focusing on associations i.e structure creation and logic and functionalities of rails .
+
+
+Setup -> Clone the repository , Go through the code . 
